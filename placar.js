@@ -1,5 +1,4 @@
 let pontosA = 0;
-let pontosI = 0;
 
 function mostraP(){
   stroke(0)//CONTORNO
