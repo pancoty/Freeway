@@ -6,7 +6,6 @@ function mostraP(){
   textSize(30);//TAMANHO
   fill(color(0, 0, 200))//COR
   text(pontosA, 30, 33);//MOSTRA MEUS PONTOS
-  text(pontosI, 570, 33);//MOSTRA PONTOS INIMIGOS
 }
 
 function marcaP(){//MARCA PONTOS
